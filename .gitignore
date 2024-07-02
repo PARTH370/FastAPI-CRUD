@@ -1,0 +1,12 @@
+
+# Environments
+.env
+
+# Virtual Environments
+.venv
+/venv
+
+# pycache 
+__pycache__/
+*.pyc
+app/logs/app.log
